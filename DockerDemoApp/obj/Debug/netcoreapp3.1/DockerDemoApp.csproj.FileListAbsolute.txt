@@ -1,0 +1,10 @@
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\bin\Debug\netcoreapp3.1\DockerDemoApp.exe
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\obj\Debug\netcoreapp3.1\DockerDemoApp.csprojAssemblyReference.cache
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\obj\Debug\netcoreapp3.1\DockerDemoApp.AssemblyInfoInputs.cache
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\obj\Debug\netcoreapp3.1\DockerDemoApp.AssemblyInfo.cs
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\obj\Debug\netcoreapp3.1\DockerDemoApp.RazorTargetAssemblyInfo.cache
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\obj\Debug\netcoreapp3.1\staticwebassets\DockerDemoApp.StaticWebAssets.Manifest.cache
+C:\Workspace\DockerWorkshop\DockerDemoApp\DockerDemoApp\DockerDemoApp\obj\Debug\netcoreapp3.1\staticwebassets\DockerDemoApp.StaticWebAssets.xml
